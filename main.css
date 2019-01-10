@@ -86,7 +86,8 @@ input#searchbox{
     position: absolute;
     top: -4px;
     right: 20px;
-    background-image: url("/Users/rebeccaterry/Documents/the_odin_project/google-homepage/profilepic.jpg")
+    background-size: contain;
+    background-image: url("/Users/rebeccaterry/Documents/the_odin_project/google-homepage/images/profilepic.jpg")
 }
 
 #footerlinks li {
