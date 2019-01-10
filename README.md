@@ -1,0 +1,1 @@
+I have learned so far how to make stage files and commit them to my Git repository.
