@@ -87,7 +87,7 @@ input#searchbox{
     top: -4px;
     right: 20px;
     background-size: contain;
-    background-image: url("/https://github.com/rterry5/google-homepage/blob/master/images/profilepic.jpg?raw=true")
+    background-image: url("https://github.com/rterry5/google-homepage/blob/master/images/profilepic.jpg?raw=true")
 }
 
 #footerlinks li {
